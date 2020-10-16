@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Image](/screenshot/screenshot.jpg)
+![Image](/screenshot/screenshot.png)
 
 ## Installation
 
