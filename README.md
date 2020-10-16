@@ -14,7 +14,7 @@ repositories {
 
 ```
 dependencies {
-    implementation 'com.github.prongbang::errorview1.0.0'
+    implementation 'com.github.prongbang::errorview:1.0.0'
 }
 ```
 
