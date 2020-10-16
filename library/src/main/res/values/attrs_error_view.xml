@@ -1,0 +1,12 @@
+<resources>
+	<declare-styleable name="ErrorView">
+		<attr name="errorTitle" format="string" />
+		<attr name="errorSubtitle" format="string" />
+		<attr name="errorButtonText" format="string" />
+		<attr name="errorButtonColor" format="color|reference" />
+		<attr name="errorElevation" format="dimension" />
+		<attr name="errorIcon" format="reference" />
+		<attr name="errorIconSize" format="dimension" />
+		<attr name="errorBackgroundColor" format="color|reference" />
+	</declare-styleable>
+</resources>
