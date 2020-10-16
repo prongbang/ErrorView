@@ -1,5 +1,9 @@
 # ErrorView for Android
 
+## Preview
+
+![Image](/screenshot/screenshot.jpg)
+
 ## Installation
 
 - Add the following repositories to your project/build.gradle file.
